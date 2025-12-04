@@ -8,11 +8,12 @@ main {
 main .titlecontainer h1 {
 font-size: 5em;
 line-height: 1.4em;
+  
 }
 
 .titlecontainer {
   width: 100vw;
-  height: 50vw;
+  height: 2vw;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -20,8 +21,8 @@ line-height: 1.4em;
 }
 .blahajcontainer {
   width: 100vw;
-  height: 100vw;
+  height: 50vw;
   display: flex;
-  justify-content: center;
+  justify-content: flex-end;
   align-items: center;
 }
