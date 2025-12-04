@@ -1,27 +1,36 @@
 main {
   width: 100%;
-  height: 100vh;
+  height: 100vh
   margin-top: 1em;
-  
-}
-
-main .titlecontainer h1 {
-font-size: 5em;
-line-height: 1.4em;
-  
-}
-
-.titlecontainer {
-  width: 100vw;
-  height: 2vw;
   display: flex;
   justify-content: center;
   align-items: center;
+}
+
+.title   {
+font-size: 5em;
+line-height: 1.2em;
+padding: 1em;
+ padding-bottom: .2em;
   
 }
+
+.subtext {
+font-size: .8em;
+line-height: 1.4em;
+padding-bottom: 2em;
+padding-left: 6.5em;
+}
+
+.subtext2 {
+  font-size: .8em;
+line-height: 1.4em;
+padding-left: 6.5em;
+}
+
 .blahajcontainer {
   width: 100vw;
-  height: 50vw;
+  height: 1vw;
   display: flex;
   justify-content: flex-end;
   align-items: center;
