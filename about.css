@@ -32,13 +32,13 @@ flex-wrap: wrap;
 width: 100%;
 }
 
-.img {
-width: 20vw;
+.images img {
+width: 300px;
 height: auto;
 margin: 1em;
 }
 
-.aboutcontainer .content {
+.aboutcontainer .content .imagecontent {
 width: 50%;
 height: auto;
 }
