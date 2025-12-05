@@ -5,6 +5,9 @@ main {
   display: flex;
   justify-content: center;
   align-items: center;
+  background-image: URL("assets/wave.svg")
+  background-repeat: no-repeat;
+  background-position-y: bottom;
 }
 
 header{
@@ -16,14 +19,14 @@ header{
 }
 
 .aboutcontainer {
-  max-width: 1110px;
+  max-width: 80vw;
   margin-inline: auto;
-  padding: 1.5rem;
+  padding: 4rem;
 }
 
 .columns {
 display: grid;
-  gap: 1rem;
+  gap: 4rem;
   
 }
 h2 {
