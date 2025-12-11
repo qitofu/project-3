@@ -8,7 +8,7 @@ main {
   background-image: URL("assets/wave.svg");
   background-repeat: no-repeat;
   background-position-y: bottom;
-  padding-bottom: 15em
+  padding-bottom: 18em;
 }
 
 body {
